@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers .
 - I’m currently learning software engineering at refactory...
 - 💞️ I’m looking to collaborate on projects that can build and expand my tech skills...
-- 📫 How to reach me , call/whatsapp +26775746466.
+- 📫 How to reach me , call/whatsapp +26775746466.Email, atieglosh@gmail.com
 
 <!---
 atienomary/atienomary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
